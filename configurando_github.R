@@ -54,4 +54,5 @@ usethis::git_sitrep()
 usethis::use_git()
 
 #.gitignore: ignorar senhas, arquivos grandes etc.
-        
+
+usethis::use_github()
