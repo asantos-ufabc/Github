@@ -49,7 +49,7 @@ usethis::git_sitrep()
 
 # Push: enviar o commit do meu computador para o github
 
-# Pull: checar se a alguma nova feita por outra que esta trabalhando no projeto            #,ou seja, trazer para o computador as mudanças feitas por outras pessoas.
+# Pull: checar se a alguma nova feita por outra que esta trabalhando no projeto, ou seja, trazer para o computador as mudanças feitas por outras pessoas.
     
 usethis::use_git()
 
