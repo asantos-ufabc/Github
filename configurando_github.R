@@ -55,4 +55,5 @@ usethis::use_git()
 
 #.gitignore: ignorar senhas, arquivos grandes etc.
 
+# commit final
 usethis::use_github()
